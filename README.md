@@ -1,7 +1,4 @@
-# BooksToScrap
-Certainly! Here's the updated README file with the contact email replaced with "sourabhtiwari533536@gmail.com":
 
-```markdown
 # BooksToScrap
 
 BooksToScrap is a web scraping project that extracts information about books from a specific website. The project utilizes Python, requests, BeautifulSoup, and other libraries to collect data and organize it into a structured format.
